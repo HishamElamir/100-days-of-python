@@ -55,5 +55,16 @@ So, we recommend having this routin on a daily basis:
 
 And we recommend to get a 100 Day Calendar (You will find it in matrials), one the best things is to track your progress. And it will give you motivation to continue and finish all the days.
 
+## Days Breakdown
+All days are similar on few concepts, is that you should cover and learn few topics. So, each day will have:
+- **Videos**: A set of videos that cover the concepts or topics of the day.
+- **Code**: A set of code that you should write to practice and learn from.
+- **Exercise**: A set of exercise that you should do to practice and learn from.
+- **Quiz**: A set of quiz that you should do to practice and learn from.
+- **Reading**: You will find a highlights on the books that we recommend to cover or complete the day topic.
+- **Extras**: An _optional_ set of extras that you might find it useful:
+  - **Cheatsheet**: You might find a cheatsheet covering a summary of the concepts of the day.
+  - **Videos**: You also might find some videos that are not related with the day topic, but you will find it useful on other aspect.
+
 ## Conclusion 👋
 Today's introduction sets the stage for your Python journey. Remember, the key to mastering Python is consistent practice and a willingness to learn. Let's embark on this 100-day adventure together!
