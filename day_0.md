@@ -66,5 +66,12 @@ All days are similar on few concepts, is that you should cover and learn few top
   - **Cheatsheet**: You might find a cheatsheet covering a summary of the concepts of the day.
   - **Videos**: You also might find some videos that are not related with the day topic, but you will find it useful on other aspect.
 
+## Repo Structure
+The repo will contains almost everything about the course, if you need the materials.
+This repo have a simple Structure which for each day will contains markdown file with the day naming `day_{dayNumber}.md`, for example `day_0.md`.
+And a directroy with the same structure.
+
+The markdown will contains the day table of content and code examples and some meta information such as links to videos or references.  
+
 ## Conclusion 👋
 Today's introduction sets the stage for your Python journey. Remember, the key to mastering Python is consistent practice and a willingness to learn. Let's embark on this 100-day adventure together!
