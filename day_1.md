@@ -39,22 +39,27 @@ print("Hello Python world!")
 ### Errors You Might Find
 The following lines of code, seems to be the same as the one above, but you will find out that they don't work like the one we used.
 
+This will produce error, as you have capitalized a character of the function `print` and used `Print` instead.
 ```python
 Print("Hello Python world!")
 ```
 
+Here, you capitalized all the function characters, which is totally wrong.
 ```python
 PRINT("Hello Python world!")
 ```
 
+Here, you used `{}` instead of `()`.
 ```python
 print{"Hello Python world!"}
 ```
 
+Here, you used one of `"` and the other one is `'`, if you started with `"` you should end with the same.
 ```python
 print("Hello Python world!')
 ```
 
+Here, you didn't use `"` or `'` around the string or text you need to print.
 ```python
 print(Hello Python world!)
 ```
