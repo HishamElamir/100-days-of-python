@@ -37,7 +37,6 @@ print("Hello Python world!")
 * Why there's `"`?
 
 ### Errors You Might Find
-
 The following lines of code, seems to be the same as the one above, but you will find out that they don't work like the one we used.
 
 ```python
